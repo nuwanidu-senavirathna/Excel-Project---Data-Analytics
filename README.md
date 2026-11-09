@@ -1,5 +1,5 @@
 
-# Project 2 Analysis
+# Project Analysis
 
 ## Introduction
 
